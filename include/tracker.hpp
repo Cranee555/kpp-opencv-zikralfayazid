@@ -12,7 +12,7 @@
 #include <vector>
 
 struct Objek {
-    std::string nama;       // contoh: "Wadah Kuning"
+    std::string nama;       // contoh: "toples ungu"
     double lebarAsli;       // lebar asli benda (cm)
     cv::Scalar warna;       // warna kotak di layar, urutannya B, G, R
 

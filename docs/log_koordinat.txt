@@ -1,0 +1,6 @@
+kuning kuning : X = 0.5 cm, Y = 1.3 cm, Z = 32.6 cm
+-----
+toples ungu : X = 1.9 cm, Y = 3.1 cm, Z = 33.9 cm
+-----
+bolalala oren : X = 1.8 cm, Y = 3.9 cm, Z = 38.8 cm
+-----
